@@ -1,0 +1,25 @@
+numpy
+matplotlib
+pandas
+
+
+
+#NumPy (Numerical Python):
+
+#NumPy is a fundamental library for scientific computing in Python.
+#It provides support for large, multi-dimensional arrays and matrices, along with a large collection of high-level #mathematical functions to operate on these arrays.
+#NumPy arrays are more efficient and flexible than Python's built-in lists, and NumPy provides a variety of functions #for working with these arrays, such as mathematical, logical, shape manipulation, sorting, selecting, etc.
+#NumPy is widely used in fields like scientific computing, data analysis, machine learning, and image processing.
+#Matplotlib:
+
+#Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+#It provides a wide variety of plot types, such as line plots, scatter plots, bar charts, histograms, and more.
+#Matplotlib is often used in conjunction with other data analysis libraries like NumPy and Pandas to create meaningful #data visualizations.
+#It provides a simple and consistent interface for generating plots, and can be customized extensively to meet specific #needs.
+#Pandas:
+
+#Pandas is a powerful data analysis and manipulation library for Python.
+#It provides two main data structures: Series (1-dimensional labeled array) and DataFrame (2-dimensional labeled data #structure, like a spreadsheet or SQL table).
+#Pandas makes it easy to work with structured (tabular, multidimensional, potentially heterogeneous) and time series #data.
+#It provides a wide range of functions for reading and writing data in various formats (CSV, Excel, SQL databases, #etc.), handling missing data, and performing data analysis and manipulation operations.
+#Pandas is widely used in data science, machine learning, and data-driven applications.

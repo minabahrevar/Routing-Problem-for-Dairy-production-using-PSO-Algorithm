@@ -1,0 +1,22 @@
+Instructions for Running the PSO Project
+
+Files Provided:
+  pso/__init__.py
+  app.py
+  data.csv (if applicable)
+  requirements.txt
+
+
+Prerequisites:
+  Python 3.x
+  pip (Python package installer)
+
+Setup Instructions:
+  pip install -r requirements.txt
+
+Run:
+  python app.py 
+
+Results:
+  There would be an image called "best_costs_plot.png"
+  Also the runtime is printed.
